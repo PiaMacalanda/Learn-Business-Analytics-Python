@@ -19,7 +19,8 @@ Here’s what we’ll uncover:
 6. (づ￣ ³￣)づ **Simple Linear Regression**
 7. (¬‿¬ )つ──☆\*:・ﾟ **Multiple Linear Regression**
 
-Each topic includes **hands-on examples** and **interactive exercises** to help you build confidence and skills as you go. (｡•̀ᴗ-)✧
+Each topic includes **hands-on examples** and **interactive exercises** to help you build confidence and skills as you go. 
+(｡•̀ᴗ-)✧
 
 ---
 
