@@ -12,7 +12,7 @@ From your first `print("Hello, Business!")` to building your first regression mo
 Here’s what we’ll uncover:
 
 1. (｡◕‿‿◕｡) **Introduction to Business Analytics** / Markdown + Python Basics
-2. (¬‿¬) **Data Collection & Understanding** / Control Structures
+2. (¬‿¬) **Data Collection & Understanding** / [Control Structures](https://github.com/PiaMacalanda/Learn-Business-Analytics-Python/blob/main/1_Control_Structures_and_Logical_Operators.ipynb)
 3. (╯✧▽✧)╯ **Data Cleaning & Preparation** / All About DataFrames
 4. (⊙\_☉) **Exploratory Data Analysis (EDA)**
 5. (☞ﾟヮﾟ)☞ **EDA Part 2** – Multivariate Edition
